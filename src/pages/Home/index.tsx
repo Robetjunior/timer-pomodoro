@@ -24,7 +24,7 @@ const newCycleFormValidationSchema = zod.object({
 type NewCycleFormData = zod.infer<typeof newCycleFormValidationSchema>
 
 export function Home() {
-  const { activeCycle, createNewCycle, InterrupetCurrentCycle } =
+  const { activeCycle, createNewCycle, interrupetCurrentCycle } =
     useContext(CyclesContext)
   const newCycleForm = useForm<NewCycleFormData>({
     resolver: zodResolver(newCycleFormValidationSchema),
@@ -53,7 +53,7 @@ export function Home() {
         <Countdown />
 
         {activeCycle ? (
-          <StopCountdownButton onClick={InterrupetCurrentCycle} type="button">
+          <StopCountdownButton onClick={interrupetCurrentCycle} type="button">
             <HandPalm size={24} />
             Interromper
           </StopCountdownButton>
