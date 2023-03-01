@@ -30,13 +30,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/Robetjunior/timer-pomodoro">
-    <img src="./public/timer-pomodoro.png" alt="Logo" width="400" height="600">
+    <img src="./public/timer-pomodoro.png" alt="Logo" width="600" height="400">
   </a>
   <a href="https://github.com/Robetjunior/timer-pomodoro">
-    <img src="./public/timer-pomodoro-running.png" alt="Logo" width="400" height="600">
+    <img src="./public/timer-pomodoro-running.png" alt="Logo" width="600" height="400">
   </a>
   <a href="https://github.com/Robetjunior/timer-pomodoro">
-    <img src="./public/history-pomodoro.png" alt="Logo" width="400" height="600">
+    <img src="./public/history-pomodoro.png" alt="Logo" width="600" height="400">
   </a>
 
 
