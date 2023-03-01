@@ -36,13 +36,11 @@
   </a>
 
 
-<h3 align="center">Timer Pomodoro</h3>
+<h2 align="center">Timer Pomodoro</h2>
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+## Sobre o Projeto
 
 Timer Pomodoro tem o intuito de ser um projeto desenvolvido para gerir melhor o tempo e aumento de produtividade mais fáceis de serem implementados no dia a dia. Além de aprimorar as minhas habilidades com Typescript, ReactJS utilizando Contexto no React, Reducers e Actions.
 
