@@ -80,7 +80,7 @@ Este é um exemplo de como listar as coisas que você precisa para usar o softwa
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuindo
 
 As contribuições são o que torna a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são **muito apreciadas**.
 
@@ -107,7 +107,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
 Project Link: [https://github.com/Robetjunior/timer-pomodoro/](https://github.com/Robetjunior/timer-pomodoro/)
 
