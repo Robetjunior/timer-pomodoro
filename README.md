@@ -23,12 +23,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]][contributors-url]
 
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
   <a href="https://github.com/Robetjunior/timer-pomodoro">
     <img src="./public/timer-pomodoro.png" alt="Logo" width="600" height="400">
   </a>
@@ -48,19 +44,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Timer Pomodoro tem o intuito de ser um projeto desenvolvido para gerir melhor o tempo e aumento de produtividade mais fáceis de serem implementados no dia a dia. Além de aprimorar as minhas habilidades com Typescript, ReactJS utilizando Contexto no React, Reducers e Actions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [![React][React.js]][React-url]
-* [![Typescript][Typescript.ts]][Typescript-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
