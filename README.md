@@ -50,30 +50,30 @@ Timer Pomodoro tem o intuito de ser um projeto desenvolvido para gerir melhor o 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Começando
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Este é um exemplo de como você pode dar instruções sobre como configurar seu projeto localmente.
+Para colocar uma cópia local em funcionamento, siga estas etapas de exemplo simples.
 
-### Prerequisites
+### Pré-requisitos
 
-This is an example of how to list things you need to use the software and how to install them.
+Este é um exemplo de como listar as coisas que você precisa para usar o software e como instalá-las.
 * npm
   ```sh
   npm install npm@latest -g
   ```
 
-### Installation
+### Instação
 
-1. Clone the repo
+1. Clone o repositório
    ```sh
    git clone https://github.com/Robetjunior/timer-pomodoro.git
    ```
-2. Install NPM packages
+2. Instale pacotes NPM
    ```sh
    npm install
    ```
-3. Start the project using
+3. Inicie o projeto usando
    ```
    npm run dev
    ```
